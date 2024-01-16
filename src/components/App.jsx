@@ -7,10 +7,6 @@ import friends from "../friends.json";
 import { TransactionHistory } from "./TransactionHistory/TransactionHistory";
 import transactions from "../transactions.json";
 
-
-
-
-
 export const App = () => {
   return (
     <>
@@ -26,7 +22,6 @@ export const App = () => {
     </>
   );
 };
-
 
 
 
